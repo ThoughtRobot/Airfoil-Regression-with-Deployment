@@ -1,6 +1,5 @@
 pandas
 numpy
-pickle
 Flask
 gunicorn
 Jinja2
